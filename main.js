@@ -1,3 +1,4 @@
+console.log("new");
 const circle = document.querySelector(".circle");
 const circleDark = document.querySelector(".circle-dark");
 const start = document.getElementById("start");
